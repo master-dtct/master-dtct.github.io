@@ -4,12 +4,12 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
-title:            Hyde
+title:            Master DTCT
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Le site du Master Design Transdisciplinaire : Culture et Territoires. Suivez-nous sur <a href="https://twitter.com/" target="_blank">@masterDTCT</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -17,10 +17,19 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+paginate: 5
+paginate_path: "page:num"
+
+
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
+
+

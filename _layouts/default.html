@@ -3,13 +3,28 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-08">
 
     {% include sidebar.html %}
 
     <div class="content container">
       {{ content }}
     </div>
+
+ <!--Import jQuery before materialize.js // je garde mais pas encore utilisé-->
+<script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+
+<script type="text/javascript" src="/materialize/js/materialize.min.js"></script>
+
+<!--ajout Pia pour scripts variés-->
+<script>
+$(document).ready(function(){
+    $('.collapsible').collapsible({
+      accordion : false // A setting that changes the collapsible behavior to expandable instead of the default accordion style
+    });
+  });
+</script>
 
   </body>
 </html>

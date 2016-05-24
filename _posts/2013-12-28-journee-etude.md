@@ -1,6 +1,6 @@
 ---
 layout: post
-title: premier post de test
+title: Journée d'étude Cinédesign
 ---
 
 à remplir !

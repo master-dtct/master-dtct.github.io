@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Workshop Recherche, retours sur expériences
 ---
 
 

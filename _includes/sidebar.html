@@ -17,6 +17,9 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+ <!--je l'ai déplacé - remis début-->
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">La vie du Master</a>
+
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,9 +28,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      
 
-      <!--je l'ai déplacé - était début nav-->
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">La vie du Master</a>
+     
 
      <!-- <a class="sidebar-nav-item" href="#">Download</a>
       <a class="sidebar-nav-item" href="#">GitHub project</a>

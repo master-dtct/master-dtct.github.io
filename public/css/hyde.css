@@ -32,19 +32,30 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Fengardo Neue', Helvetica, Arial, sans-serif;
+  letter-spacing: 0.02em;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
+/* TYPE */
+@font-face {
+  font-family: 'Fengardo Neue';
+  src: url('fontes/fengardoneue_regular-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fontes/fengardoneue_regular-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fontes/fengardoneue_regular-webfont.woff') format('woff2'), /* Super Modern Browsers */
+       url('fontes/fengardoneue_regular-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fontes/fengardoneue_regular-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fontes/fengardoneue_regular-webfont#svgFontName') format('svg'); /* Legacy iOS */
+}
 
 /*
  * Sidebar
@@ -98,6 +109,7 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+
 
 /* Sticky sidebar
  *
@@ -166,6 +178,77 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*collapsibles*/
+.collapsible{    
+    border-top: 1px solid  #333FFF;
+    border-right: 1px solid  #333FFF;
+    border-left: 1px solid  #333FFF;
+    margin: 0.5rem 0 1rem 0;
+    padding: 0;
+    list-style-type: none;
+    display: block;
+
+}
+
+.collapsible-header{
+    display: block;
+    cursor: pointer;
+    min-height: 3rem;
+    line-height: 3rem;
+    padding: 0 1rem;
+    background-color: #fff;
+    border-bottom: 1px solid  #333FFF;
+    color :  #333FFF;
+}
+
+.collapsible-body{
+    display: none;
+    border-bottom: 1px solid  #333FFF;
+    box-sizing: border-box;
+    padding: 10px 0 0 20px;
+}
+
+.collapsible-body p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.icon-plus{
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    padding: 0 1rem;
+}
+
+/*
+*/
+.profile{
+  width: 12em;
+  height: 300px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  margin-bottom: 0;
+
+}
+
+.profile-img{
+  clear: both;
+}
+
+.profile .profile-text{
+  padding: 0 5px;
+  background-color: black;
+}
+
 
 
 /*
@@ -179,11 +262,11 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #ac4142;
+  background-color: #FF333F;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #FD737B;
 }
 
 /* Orange */

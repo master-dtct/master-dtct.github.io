@@ -9,7 +9,8 @@ Le métier de designer est voué à de profondes mutations. Être designer aujou
 
 ### Profils recherchés & Objectifs
 
-Ce Master s’adresse à des étudiants autonomes, déjà spécialistes d’un domaine du design mais ouverts à une perspective transdisciplinaire qui décloisonne  et met les savoirs en friction. Les candidats recherchés imaginent leur formation comme une transition vers le monde professionnel. À l’issue du Master, l’étudiant aura obtenu un ensemble d’outils lui permettant de : 
+Ce Master s’adresse à des étudiants autonomes, déjà spécialistes d’un domaine du design mais ouverts à une perspective transdisciplinaire qui décloisonne  et met les savoirs en friction. Les candidats recherchés imaginent leur formation comme une transition vers le monde professionnel. À l’issue du Master, l’étudiant aura obtenu un ensemble d’outils lui permettant de :
+### 
 * s’adapter à divers environnements de projet ; PME industrielles, entreprises artisanales, entreprises de services, collectivités territoriales, services publics...
 * expertiser et intervenir dans la chaîne de production ;
 * coordonner des équipes pluridisciplinaires ; 

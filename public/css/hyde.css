@@ -96,6 +96,15 @@ html {
   font-size: 3.25rem;
 }
 
+
+.sidebar-about h1 a:hover{
+  color: transparent;
+  text-shadow: 0 0 8px rgba(256,256,256,1);
+  text-decoration: none;
+  -moz-transition: text-shadow 0.5s ease-in-out;
+  -moz-transition: color 0.5s ease-in-out;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;

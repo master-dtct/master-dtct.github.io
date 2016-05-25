@@ -3,6 +3,8 @@ layout: page
 title: Présentation du Master
 ---
 
+<img src="/../logo-02.svg" class="logo"/>
+
 ### Les enjeux du Master DTCT
 
 Le métier de designer est voué à de <span class="surligne">profondes mutations</span>. Être designer aujourd’hui implique de se réinventer sans cesse, en même temps que d’anticiper et <span class="surligne">projeter les modes de vie de demain</span>.  Dans le contexte actuel, il semble incontournable de travailler à lier la pratique du design à l’ancrage dans un <span class="surligne">territoire</span>, en lien avec le ou les patrimoine(s) qui maillent ce dernier. Le Master DTCT, parce qu’il s’inscrit dans cette contextualisation forte, prend en compte des enjeux de durabilité, à la fois dans une <span class="surligne">perspective environnementale et culturelle</span> - dans le sens d’une culture du design autant que des cultures qui composent nos sociétés.

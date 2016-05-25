@@ -5,24 +5,29 @@ title: Ressources
 
 
 <ul class="collapsible" data-collapsible="accordion">
+        <!---question 0-->
+    <li>
+      <div class="collapsible-header"><i class="icon-plus"></i>Comment faire un stage ?</div>
+      <div class="collapsible-body"><p>Vous êtes responsable des recherches d'un lieu de stage en M1 et en M2. Tout stage doit être réalisé dans le cadre d'une convention (disponible sur l'ENT de l'Université) signée par vos enseignants référents et validée par le secrétariat. Pour vous aider dans vos recherches, vous pouvez éventuellement vous rapprocher des<a href="/../pages/anciens/"> anciens</a>.</p></div>
+    </li>
     <!---question 1-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Quand effectuer mon stage en M1 ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Quand effectuer mon stage en M1 ?</div>
       <div class="collapsible-body"><p>Le stage sera à effectuer en mai, juin, et/ou juillet. Étant en M1, vous pouvez potentiellement dépasser cette date et prolonger le stage en août.</p></div>
     </li>
     <!---question 2-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Quand effectuer mon stage en M2 ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Quand effectuer mon stage en M2 ?</div>
       <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
     </li>
     <!---question 3-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Est-il possible de faire son stage à l'étranger ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Est-il possible de faire son stage à l'étranger ?</div>
       <div class="collapsible-body"><p>Cela est possible dans la mesure où vous respectez les durées de stage imposées. Vous devez utiliser les conventions de stage traduites (anglais, espagnol) disponibles sur l'ENT de l'Université.</p></div>
     </li>
         <!---question 4-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>À quel moment puis-je aller à l'atelier GH003 ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>À quel moment puis-je aller à l'atelier GH003 ?</div>
       <div class="collapsible-body">
         <p>Disponibilités de la salle GH003 (en bleu clair) pour la semaine du 20 février.
          Merci de croiser cet emploi du temps avec celui affiché par André Rodriguez à côté de la salle. 
@@ -30,11 +35,11 @@ title: Ressources
                <thead>
                     <tr>
                       <th>Horaires</th>
-                      <th>Lundi</th>
-                      <th>Mardi</th>
-                      <th>Mercredi</th>
-                      <th>Jeudi</th>
-                      <th>Vendredi</th>
+                      <th>Lun</th>
+                      <th>Mar</th>
+                      <th>Mer</th>
+                      <th>Jeu</th>
+                      <th>Ven</th>
                     </tr>
                 </thead>
   <tbody>
@@ -128,19 +133,19 @@ title: Ressources
 
     <!---question 5-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Comment contacter les anciens ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Comment contacter les anciens ?</div>
       <div class="collapsible-body"><p>Vous pouvez vous reporter à <a href="/../pages/anciens/">cet annuaire.</a></p></div>
     </li>
 
     <!---question 6-->
         <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Quels ouvrages lire avant l'entrée en Master (et après...) ?</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Quels ouvrages lire avant l'entrée en Master (et après...) ?</div>
       <div class="collapsible-body"><p>Vous pouvez vous reporter à <a href="/../pages/bibliographie/">cette bibliographie</a> de base compilée par les enseignants du Master.</p></div>
     </li>
 
     <!---question 7-->
     <li>
-      <div class="collapsible-header"><i class="icon-plus">+</i>Adresses Pratiques</div>
+      <div class="collapsible-header"><i class="icon-plus"></i>Adresses Pratiques</div>
       <div class="collapsible-body">
 
         <h3>Lieux culturels</h3>

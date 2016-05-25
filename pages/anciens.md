@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-other
 title: Les anciens du Master
 ---
 

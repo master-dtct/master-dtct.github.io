@@ -90,7 +90,9 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  margin-bottom: 10px;
+  font-family: 'Fjalla One', sans-serif;
+  letter-spacing: 0.08em;
   font-size: 3.25rem;
 }
 
@@ -110,6 +112,13 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.logo{
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+  
+}
 
 /* Sticky sidebar
  *
@@ -268,6 +277,8 @@ body{
   color: #1C3144;
 
 }
+
+
 .theme-base-08 .sidebar {
   background-color: #FF333F;
 }
@@ -281,6 +292,15 @@ body{
 
 h3{
   color: #FF333F;
+}
+
+figcaption{
+  border-top: solid 2px #AAD8FE;
+  border-bottom: solid 2px #AAD8FE;
+  color: #333FFF;
+  font-size: 0.7em;
+  vertical-align: middle;
+  padding: 5px;
 }
 
 .post-date{
@@ -305,18 +325,25 @@ h3{
   background-color: #FFFCCA;
 }
 
+
 .important{
   color: #FF333F;
   font-weight: bold;
   text-decoration: underline;
 }
 
+/*justification grille cours (ECTS)*/
 .ects-align{
   text-align: right;
 }
 
+/* style des cellules pour l'emploi du temps*/
 tr .freeslots{
   background-color: #AAD8FE !important;
+}
+
+table tr:nth-child(even){
+  background-color: #AAD8FE ;
 }
 
 /* Orange */

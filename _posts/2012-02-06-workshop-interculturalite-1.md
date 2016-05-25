@@ -5,4 +5,4 @@ title: Workshop Interculturalité, partie 1
 
 ### Titre
 
-à compléter
+<img src="/../img/1609_workshop-1.jpg"/>

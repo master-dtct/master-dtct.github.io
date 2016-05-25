@@ -3,6 +3,8 @@ layout: post
 title: Workshop Recherche, retours sur expériences
 ---
 
+<img src="/../img/1609_workshop-2.jpg"/>
+<img src="/../img/1609_workshop-3.jpg"/>
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

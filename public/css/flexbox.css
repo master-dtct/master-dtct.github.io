@@ -1,0 +1,163 @@
+/* Complément Flexbox pour site Master - Pia Pandelakis */
+
+
+.flex-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: stretch;
+
+}
+		
+ 
+.flex-item{
+	display:block;
+    width: 210px;
+    height: 320px;
+    border: solid 1px #333FFF;
+    flex-grow: 0;
+    flex-shrink: 0;
+    /*flex-basis: 0;*/
+    margin: 5px 0 0 5px; 
+    padding: 15px 10px 10px 10px;
+}
+
+/*
+.flex-item:first-child{
+	margin-left: 0px;
+
+}
+*/
+
+.flex-content{
+	align-items: center;
+    justify-content: center; 
+
+}
+
+.flex-image{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	margin: 0 auto;
+  
+}
+
+.flex-personne-name{
+	font-size: 1.2em;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 0;
+    white-space:pre-wrap;
+    box-sizing: border-box;
+    padding: 0 20px;
+    text-align: center;
+    width: 100%;
+    color: #FF333F;
+    line-height: 1.2em;
+
+}
+
+.flex-personne-quality{
+	font-size: 0.7em;
+    color: #3F85C5;
+    display: block;
+    width: 100%;
+    padding: 5px 0px;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 300;
+    border-top: solid 1px #333FFF;
+    border-bottom: solid 1px #333FFF;
+    margin: 0;
+}
+
+.flex-personne-detailbox{
+	margin-top: 10px;
+
+}
+
+.flex-personne-details{
+    border-bottom: solid 1px #333FFF;
+    padding: 5px 0px;
+    font-size: 0.7em;
+    color: #3F85C5;
+    margin: 0;
+}
+
+/*styles pour les listes d'anciens "full width"*/
+.flex-full-length{
+	width: 100%;
+	/*border: solid 1px #333FFF;*/
+	background-color: #3F88C5;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin: 5px 0 0 5px; 
+    padding: 15px 10px 10px 15px;
+}
+
+.flex-full-length:last-child{
+	margin: 15px;
+}
+
+.flex-full-length-image{
+	width: 15%;
+	border-radius: 50%;
+	border: 2px solid #fff;
+	float: left;
+	vertical-align: middle;
+  
+}
+
+.flex-full-detailbox{
+	display: block;
+	width: 80%;
+	float: right;
+	vertical-align: middle;
+
+}
+
+.flex-full-personne-name{
+	font-size: 1em;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    white-space:pre-wrap;
+    box-sizing: border-box;
+    padding: 0;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1.2em;
+
+}
+
+.flex-full-personne-quality{
+	font-size: 0.7em;
+    color: #fff;
+    display: block;
+    width: 100%;
+    padding: 5px 0px;
+    box-sizing: border-box;
+    font-weight: 300;
+    border-top: solid 1px #333FFF;
+    border-bottom: solid 1px #333FFF;
+    margin: 0;
+}
+
+.flex-full-personne-details{
+	border-bottom: solid 1px #333FFF;
+    padding: 5px 0px;
+    font-size: 0.7em;
+    margin: 0;
+    color: #fff !important;
+
+}
+
+
+.flex-full-personne-details a{
+	color: #fff !important;
+}
+		

@@ -5,6 +5,8 @@ title: Présentation du Master
 
 <img src="/../logo-02.svg" class="logo"/>
 
+<p class="important">Les inscriptions sont closes pour l'année universitaire 2016-2017.</p>
+
 ### Les enjeux du Master DTCT
 
 Le métier de designer est voué à de <span class="surligne">profondes mutations</span>. Être designer aujourd’hui implique de se réinventer sans cesse, en même temps que d’anticiper et <span class="surligne">projeter les modes de vie de demain</span>.  Dans le contexte actuel, il semble incontournable de travailler à lier la pratique du design à l’ancrage dans un <span class="surligne">territoire</span>, en lien avec le ou les patrimoine(s) qui maillent ce dernier. Le Master DTCT, parce qu’il s’inscrit dans cette contextualisation forte, prend en compte des enjeux de durabilité, à la fois dans une <span class="surligne">perspective environnementale et culturelle</span> - dans le sens d’une culture du design autant que des cultures qui composent nos sociétés.
@@ -12,7 +14,7 @@ Le métier de designer est voué à de <span class="surligne">profondes mutation
 ### Profils recherchés & Objectifs
 
 Ce Master s’adresse à des <span class="surligne">étudiants autonomes</span>, déjà spécialistes d’un domaine du design mais <span class="surligne">ouverts à une perspective transdisciplinaire</span> qui décloisonne  et met les savoirs en friction. Les candidats recherchés imaginent leur formation comme une transition vers le monde professionnel. À l’issue du Master, l’étudiant aura obtenu un ensemble d’outils lui permettant de :
-### 
+
 * s’adapter à divers environnements de projet ; PME industrielles, entreprises artisanales, entreprises de services, collectivités territoriales, services publics...
 * expertiser et intervenir dans la chaîne de production ;
 * coordonner des équipes pluridisciplinaires ; 
@@ -44,5 +46,3 @@ Les workshops et cours s’inscrivant dans ces axes sont complétés par un acc�
 ### Conditions d’admission
 Après une première sélection sur dossier en mai, les candidats sont entendus lors d’un oral à l’Université en juin.
 L’admission peut se faire en Master 1 (candidats de Licence 3) ou Master 2 (candidats de Bac+4 : DSAA, etc.).
-
-<p class="important">Les inscriptions sont closes pour l'année universitaire 2016-2017.</p>

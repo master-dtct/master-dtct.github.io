@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop Interculturalité, partie 1
+title: 'Workshop Interculturalité, partie 1'
+published: false
 ---
 
 <img src="/../img/1609_workshop-1.jpg"/>

@@ -3,7 +3,7 @@ layout: page
 title: Les anciens du Master
 ---
 
- 
+<p>Les plus anciennes promotions seront prochainement ajoutées.
 
 <ul class="collapsible" data-collapsible="accordion">
     <li>

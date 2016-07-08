@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Workshop Recherche, retours sur expériences
+title: 'Workshop Recherche, retours sur expériences'
+published: false
 ---
 
 <img src="/../img/1609_workshop-2.jpg"/>

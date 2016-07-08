@@ -417,3 +417,8 @@ table tr:nth-child(even){
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.ol-hack{
+  padding-left: 0;
+
+}

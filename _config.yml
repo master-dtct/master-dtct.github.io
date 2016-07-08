@@ -7,9 +7,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Master DTCT
+title:            master DTCT
 tagline:          'A Jekyll theme'
-description:      'Le site du Master Design Transdisciplinaire : Culture et Territoires (UT2J, Toulouse, France). Suivez-nous sur <a href="https://twitter.com/" target="_blank">@masterDTCT</a>.'
+description:      'Le site du Master Design Transdisciplinaire, Cultures et Territoires (UT2J, Toulouse, France). Suivez-nous sur <a href="https://twitter.com/" target="_blank">@masterDTCT</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 

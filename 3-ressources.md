@@ -89,10 +89,10 @@ title: Ressources
       <div class="collapsible-header"><i class="icon-plus"></i>Nos partenaires</div>
       <div class="collapsible-body">Nos partenaires sont : 
         <ol class="ol-hack">
-      <li class="list-fleche"><a href="http://eina.cat/en/" target="_blank">Eina</a></li> 
-      <li class="list-fleche"><a href="http://dsaa-toulouse.tumblr.com/" target="_blank">DSAA du Lycée des Arènes</a></li> 
+      <li class="list-fleche"><a href="http://eina.cat/en/" target="_blank">Eina (Barcelone)</a></li> 
+      <li class="list-fleche"><a href="http://dsaa-toulouse.tumblr.com/" target="_blank">DSAA du Lycée des Arènes (Toulouse)</a></li> 
       <li class="list-fleche"><a href="https://dsaalasout.wordpress.com/" target="_blank">DSAA Raymond Loewy (La Souterraine)</a></li> 
-      <li class="list-fleche"><a href="http://rive-gauche.entmip.fr/" target="_blank">DSAA Lycée Rive Gauche</a></li> 
+      <li class="list-fleche"><a href="http://rive-gauche.entmip.fr/" target="_blank">DSAA Lycée Rive Gauche (Toulouse)</a></li> 
       <li class="list-fleche"><a href="http://www.isdat.fr/" target="_blank">École des Beaux-Arts de Toulouse Section Design- Design d'espace (isdaT)</a></li>
         </ol>
 

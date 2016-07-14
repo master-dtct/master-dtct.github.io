@@ -204,6 +204,4 @@ title: Contenus d'enseignement
 </li>
 
 
-</ul>
-
 

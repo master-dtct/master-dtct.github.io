@@ -61,12 +61,12 @@ title: Ressources
 
           <h4>Lieux culturels</h4>
           <ol class="ol-hack">
-            <li class="list-fleche"><a href="http://www.collectif-ipn.net/">IPN<a></li>
+            <li class="list-fleche"><a href="http://www.collectif-ipn.net/">IPN</a></li>
             <li class="list-fleche"><a href="http://www.lacantine-toulouse.org/">La Cantine Numérique</a></li>
             <li class="list-fleche"><a href="http://www.imaginationsfertiles.fr/">Les imaginations fertiles</a></li>
           </ol>
 
-            </br>
+            
           <h4>Imprimeries / Reprographie</h4>  
           <ol class="ol-hack">
             <li class="list-fleche"><a href="http://www.copydiffusionservice.com/">CDS</a></li>
@@ -74,13 +74,28 @@ title: Ressources
 
               <h4>Pratique</h4>
           <ol class="ol-hack">
-            <li class="list-fleche"><a href="http://www.crous-toulouse.fr/">CROUS<a></li>
+            <li class="list-fleche"><a href="http://www.crous-toulouse.fr/">CROUS</a></li>
           </ol>
+
       </div>
     </li>
- 
-
-  
-
-
   </ul>
+
+
+  <h3>À propos du master</h3>
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <!---question 1-->
+      <div class="collapsible-header"><i class="icon-plus"></i>Nos partenaires</div>
+      <div class="collapsible-body">Nos partenaires sont : 
+        <ol class="ol-hack">
+      <li class="list-fleche"><a href="http://eina.cat/en/" target="_blank">Eina</a></li> 
+      <li class="list-fleche"><a href="http://dsaa-toulouse.tumblr.com/" target="_blank">DSAA du Lycée des Arènes</a></li> 
+      <li class="list-fleche"><a href="https://dsaalasout.wordpress.com/" target="_blank">DSAA Raymond Loewy (La Souterraine)</a></li> 
+      <li class="list-fleche"><a href="http://rive-gauche.entmip.fr/" target="_blank">DSAA Lycée Rive Gauche</a></li> 
+      <li class="list-fleche"><a href="http://www.isdat.fr/" target="_blank">École des Beaux-Arts de Toulouse Section Design- Design d'espace (isdaT)</a></li>
+        </ol>
+
+      </div>
+    </li>
+</ul>

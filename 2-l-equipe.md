@@ -13,7 +13,7 @@ Cette page est en cours de réalisation.
 		<div class="flex-personne-detailbox">
 			<p class="flex-personne-quality">Design & Stories</p>
 			<p class="flex-personne-details"><a href="https://fr.linkedin.com/in/thomasguillaumot" target="_blank">Sur LinkedIn</a></p>
-			<p class="flex-personne-details"><a href="www.ekito.fr" target="_blank">ekito</a> / <a href="www.zombicat.net" target="_blank">zombicat</a> / <a href="www.garlicdesign.com" target="_blank">garlicdesign</a></p>
+			<p class="flex-personne-details"><a href="http://ekito.fr" target="_blank">ekito</a> / <a href="http://zombicat.net" target="_blank">zombicat</a> / <a href="http://garlicdesign.com" target="_blank">garlicdesign</a></p>
 		</div>
 	</div>	
 
@@ -23,7 +23,7 @@ Cette page est en cours de réalisation.
 		<p class="flex-personne-name">Damien Guizard</p>
 		<div class="flex-personne-detailbox">
 			<p class="flex-personne-quality">Architecte, Designer, Maquettiste</p>
-			<p class="flex-personne-details"><a href="www.guizard.net" target="_blank">guizard.net</a></p>
+			<p class="flex-personne-details"><a href="http://guizard.net" target="_blank">guizard.net</a></p>
 			
 		</div>
 	</div>

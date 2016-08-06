@@ -5,7 +5,7 @@ title: Présentation du Master
 
 <img src="/../logo-02.svg" class="logo"/>
 
-<p class="important">Les inscriptions sont closes pour l'année universitaire 2016-2017.</p>
+<p class="important">Le inscriptions sont closes pour l'année universitaire 2016-2017.</p>
 
 ### Une approche engagée de la profession de designer
 

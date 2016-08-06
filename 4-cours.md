@@ -100,7 +100,7 @@ title: Contenus d'enseignement
     </tr>
   </tbody>
 </table>
-
+</div>
 </li>
 
 <li>
@@ -163,6 +163,7 @@ title: Contenus d'enseignement
 </div>
 </li>
 
+
 <li>
   <div class="collapsible-header"><h3>Master 2 - Semestre 2</h3></div>  
 
@@ -202,6 +203,8 @@ title: Contenus d'enseignement
 </table>
 </div>
 </li>
+
+</ul>
 
 
 

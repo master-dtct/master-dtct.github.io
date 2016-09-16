@@ -15,7 +15,7 @@ published: true
 
 - <a href="../docs/2016/SYNTHESE ENSEIGNEMENTS-M1-DTCT-2016-2017.pdf">le détail des enseignements de Master 1
 
-- <a href="../docs/2016/2016-2017-EDT-M1-DTCT.pdf">l'emploi du temps de Master 2</a>
+- <a href="../docs/2016/2016-2017-EDT-M2-DTCT.pdf">l'emploi du temps de Master 2</a>
 
 - <a href="../docs/2016/SYNTHESE ENSEIGNEMENTS-M2-DTCT-2016-2017.pdf">le détail des enseignements de Master 2</a>
 

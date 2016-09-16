@@ -19,7 +19,7 @@ published: true
 
 - <a href="../docs/2016/SYNTHESE ENSEIGNEMENTS-M2-DTCT-2016-2017.pdf">le détail des enseignements de Master 2</a>
 
-Et je me permets de poster le <a href="../docs/2016/SYNTHESE ENSEIGNEMENTS-M2-DTCT-2016-2017.pdf">powerpoint de ce matin</a>.
+Et je me permets de poster le <a href="../docs/2016/2016-2017_rentree-proj.pdf">powerpoint de ce matin</a>.
 
 <p>
 <img src="/../img/2016_09/rentree/rentree_03.jpg"/>

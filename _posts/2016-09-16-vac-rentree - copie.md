@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le master DTCT fait sa rentrée
+published: true
 ---
 
 <img src="/../img/2016_09/rentree/rentree_01.jpg"/>

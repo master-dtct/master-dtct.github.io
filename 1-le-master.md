@@ -21,7 +21,7 @@ Ce Master s’adresse à des <span class="surligne">étudiants autonomes</span>,
 * identifier dans un territoire des spécificités culturelles, des savoir-faire à réinvestir ;
 * générer des formes d’innovation sociale, de scénarios durables ;
 * développer une vision prospective et sensible des usages.
-> découvrir le parcours des anciens [uniquement version web]
+<!-- découvrir le parcours des anciens [uniquement version web]-->
 
 Se nourrissant de l’ensemble des disciplines des sciences humaines, de la diversité des esthétiques et des technologies, le Master intègre des enjeux socio-culturels, politiques, économiques et éthiques. L’étudiant est ainsi amené à développer des dispositifs, services, méthodologies visant notamment à l’amélioration de nos modes de vie et des modes d’interaction entre les communautés.
 

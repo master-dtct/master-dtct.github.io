@@ -1,12 +1,59 @@
 ---
 layout: page
-title: L'équipe
+title: L'équipe enseignante
 ---
 
 L'équipe se compose d'enseignants titulaires à l'Université Toulouse Jean Jaurès et de professionnels du design, du marketing...
 Cette page est en cours de réalisation.
 
 <div class="flex-container">
+	<div class="flex-item">
+		<img src="/../img/profiles/teachers/ID-bouyer.jpg" class="flex-image"/>
+		<p class="flex-personne-name">Sylvain Bouyer</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Designer, Enseignant</p>
+			<p class="flex-personne-details"><a href="http://dizayner.fr/" target="_blank">Dizayner</a></p>
+		</div>
+	</div>	
+
+		<div class="flex-item">
+		<img src="/../img/profiles/teachers/ID-cazin.jpg" class="flex-image"/>
+		<p class="flex-personne-name">Émilie Cazin</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Designer</p>
+			<p class="flex-personne-details"><a href="http://emiliecazin.com/" target="_blank">Site personnel</a></p>
+			<p class="flex-personne-details"><a href="https://www.facebook.com/EmilieCazinDesign/?view_public_for=170576826291466" target="_blank">Sur Facebook</a></p>
+		</div>
+	</div>	
+
+	<div class="flex-item">
+		<img src="/../img/profiles/teachers/ID-denoual.jpg" class="flex-image"/>
+		<p class="flex-personne-name">Fabienne Denoual</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Maître de Conférences en Design</p>
+			<p class="flex-personne-details"><a href="https://www.linkedin.com/in/fabienne-denoual-33464b58" target="_blank">Sur LinkedIn</a></p>
+		</div>
+	</div>	
+
+			<div class="flex-item">
+		<div class="flex-image"></div>	
+		<!--<img src="#" class="flex-image"/>-->
+		<p class="flex-personne-name">Thierry Dubrouil</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Chargé de cours</p>
+		</div>
+			</div>
+
+		<div class="flex-item">
+		<div class="flex-image"></div>	
+		<!--<img src="#" class="flex-image"/>-->
+		<p class="flex-personne-name">Brice Genre</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Enseignant-Chercheur et Designer</p>
+			<p class="flex-personne-details"><a href="http://www.aplusbdesigners.com/" target="_blank">a + b designers</a></p>
+		</div>
+		</div>		
+
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-guillaumot.jpg" class="flex-image"/>
 		<p class="flex-personne-name">Thomas Guillaumot</p>
@@ -18,8 +65,7 @@ Cette page est en cours de réalisation.
 	</div>	
 
 	<div class="flex-item">
-		<div class="flex-image"></div>	
-		<!--<img src="#" class="flex-image"/>-->
+		<img src="/../img/profiles/teachers/ID-guizard.jpg" class="flex-image"/>
 		<p class="flex-personne-name">Damien Guizard</p>
 		<div class="flex-personne-detailbox">
 			<p class="flex-personne-quality">Architecte, Designer, Maquettiste</p>
@@ -27,6 +73,25 @@ Cette page est en cours de réalisation.
 			
 		</div>
 	</div>
+
+		<div class="flex-item">
+		<img src="/../img/profiles/teachers/ID-masure.jpg" class="flex-image"/>
+		<p class="flex-personne-name">Anthony Masure</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Enseignant-Chercheur, Designer d’interfaces</p>
+			<p class="flex-personne-details"><a href="http://www.anthonymasure.com/" target="_blank">anthonymasure.com</a></p>
+			<p class="flex-personne-details"><a href="https://twitter.com/anthonymasure?lang=en" target="_blank">Sur Twitter</a></p>
+		</div>
+	</div>	
+
+		<div class="flex-item">
+		<div class="flex-image"></div>	
+		<!--<img src="#" class="flex-image"/>-->
+		<p class="flex-personne-name">Bianca Millon-Devigne</p>
+		<div class="flex-personne-detailbox">
+			<p class="flex-personne-quality">Graphiste</p>
+		</div>
+		</div>
 
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-pandelakis.png" class="flex-image"/>

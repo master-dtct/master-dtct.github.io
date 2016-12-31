@@ -19,7 +19,7 @@ title: Ressources
    <!---question 3-->
     <li>
       <div class="collapsible-header"><i class="icon-plus"></i>Comment faire un stage ?</div>
-      <div class="collapsible-body"><p>Vous êtes responsable des recherches d'un lieu de stage en M1 et en M2. Tout stage doit être réalisé dans le cadre d'une convention (disponible sur l'ENT de l'Université) signée par vos enseignants référents et validée par le secrétariat. Pour vous aider dans vos recherches, vous pouvez éventuellement vous rapprocher des<a href="/../pages/anciens/"> anciens</a>.</p></div>
+      <div class="collapsible-body"><p>Vous êtes responsable des recherches d'un lieu de stage en M1 et en M2. Tout stage doit être réalisé dans le cadre d'une convention (disponible sur l'ENT de l'Université) signée par vos enseignants référents et validée par le secrétariat. Pour vous aider dans vos recherches, vous pouvez éventuellement vous rapprocher des<a href="/../5-anciens/"> anciens</a>.</p></div>
     </li>
 
 
@@ -44,7 +44,7 @@ title: Ressources
     <!---question 2b-->
     <li>
       <div class="collapsible-header"><i class="icon-plus"></i>Comment contacter les anciens ?</div>
-      <div class="collapsible-body"><p>Vous pouvez vous reporter à <a href="/../pages/anciens/">cet annuaire.</a></p></div>
+      <div class="collapsible-body"><p>Vous pouvez vous reporter à <a href="/../5-anciens/">cet annuaire.</a></p></div>
     </li>
 
     <!---question 3b-->

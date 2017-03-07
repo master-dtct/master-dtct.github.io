@@ -1,0 +1,18 @@
+- photo: bouyer.jpg
+  name: Sylvain Bouyer
+  quality: Designer, Enseignant
+  details:
+    - >
+      [Dizayner](http://dizayner.fr/)
+
+- photo: pandelakis.png
+  name: Pia Pandelakis
+  quality: Enseignante-Chercheuse, Graphiste, Illustratrice
+  details:
+    - >
+      [@PiaP](https://twitter.com/PiaP)
+    - >
+      [piapandelakis.com](http://piapandelakis.com) / [cinédesign](http://cinema-design.fr)
+
+- name: Rémi Pech
+  quality: Chargé de cours

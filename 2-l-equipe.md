@@ -7,14 +7,24 @@ L'équipe se compose d'enseignants titulaires à l'Université Toulouse Jean Jau
 Cette page est en cours de réalisation.
 
 <div class="flex-container">
+	{% for person in site.data.staff %}
 	<div class="flex-item">
-		<img src="/../img/profiles/teachers/ID-bouyer.jpg" class="flex-image"/>
-		<p class="flex-personne-name">Sylvain Bouyer</p>
+		{% if person.photo %}
+		<img src="/../img/profiles/teachers/ID-{{ person.photo }}" class="flex-image"/>
+		{% else %}
+		<div class="flex-image"></div>
+		{% endif %}
+		<p class="flex-personne-name">{{ person.name }}</p>
 		<div class="flex-personne-detailbox">
-			<p class="flex-personne-quality">Designer, Enseignant</p>
-			<p class="flex-personne-details"><a href="http://dizayner.fr/" target="_blank">Dizayner</a></p>
+			<p class="flex-personne-quality">{{ person.quality }}</p>
+			{% for detail in person.details %}
+				<p class="flex-personne-details">
+					{{ detail | markdownify | remove: '<p>' | remove: '</p>' }}
+				</p>
+			{% endfor %}
 		</div>
-	</div>	
+	</div>
+	{% endfor %}
 
 		<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-cazin.jpg" class="flex-image"/>
@@ -24,7 +34,7 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-details"><a href="http://emiliecazin.com/" target="_blank">Site personnel</a></p>
 			<p class="flex-personne-details"><a href="https://www.facebook.com/EmilieCazinDesign/?view_public_for=170576826291466" target="_blank">Sur Facebook</a></p>
 		</div>
-	</div>	
+	</div>
 
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-denoual.jpg" class="flex-image"/>
@@ -33,10 +43,10 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-quality">Maître de Conférences en Design</p>
 			<p class="flex-personne-details"><a href="https://www.linkedin.com/in/fabienne-denoual-33464b58" target="_blank">Sur LinkedIn</a></p>
 		</div>
-	</div>	
+	</div>
 
 			<div class="flex-item">
-		<div class="flex-image"></div>	
+		<div class="flex-image"></div>
 		<!--<img src="#" class="flex-image"/>-->
 		<p class="flex-personne-name">Thierry Dubrouil</p>
 		<div class="flex-personne-detailbox">
@@ -45,14 +55,14 @@ Cette page est en cours de réalisation.
 			</div>
 
 		<div class="flex-item">
-		<div class="flex-image"></div>	
+		<div class="flex-image"></div>
 		<!--<img src="#" class="flex-image"/>-->
 		<p class="flex-personne-name">Brice Genre</p>
 		<div class="flex-personne-detailbox">
 			<p class="flex-personne-quality">Enseignant-Chercheur et Designer</p>
 			<p class="flex-personne-details"><a href="http://www.aplusbdesigners.com/" target="_blank">a + b designers</a></p>
 		</div>
-		</div>		
+		</div>
 
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-guillaumot.jpg" class="flex-image"/>
@@ -62,7 +72,7 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-details"><a href="https://fr.linkedin.com/in/thomasguillaumot" target="_blank">Sur LinkedIn</a></p>
 			<p class="flex-personne-details"><a href="http://ekito.fr" target="_blank">ekito</a> / <a href="http://zombicat.net" target="_blank">zombicat</a> / <a href="http://garlicdesign.com" target="_blank">garlicdesign</a></p>
 		</div>
-	</div>	
+	</div>
 
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-guizard.jpg" class="flex-image"/>
@@ -70,7 +80,7 @@ Cette page est en cours de réalisation.
 		<div class="flex-personne-detailbox">
 			<p class="flex-personne-quality">Architecte, Designer, Maquettiste</p>
 			<p class="flex-personne-details"><a href="http://guizard.net" target="_blank">guizard.net</a></p>
-			
+
 		</div>
 	</div>
 
@@ -82,10 +92,10 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-details"><a href="http://www.anthonymasure.com/" target="_blank">anthonymasure.com</a></p>
 			<p class="flex-personne-details"><a href="https://twitter.com/anthonymasure?lang=en" target="_blank">Sur Twitter</a></p>
 		</div>
-	</div>	
+	</div>
 
 		<div class="flex-item">
-		<div class="flex-image"></div>	
+		<div class="flex-image"></div>
 		<!--<img src="#" class="flex-image"/>-->
 		<p class="flex-personne-name">Bianca Millon-Devigne</p>
 		<div class="flex-personne-detailbox">
@@ -93,26 +103,6 @@ Cette page est en cours de réalisation.
 		</div>
 		</div>
 
-	<div class="flex-item">
-		<img src="/../img/profiles/teachers/ID-pandelakis.png" class="flex-image"/>
-		<p class="flex-personne-name">Pia Pandelakis </p>
-		<div class="flex-personne-detailbox">
-			<p class="flex-personne-quality">Enseignante-Chercheuse, Graphiste, Illustratrice</p>
-			<p class="flex-personne-details"><a href="https://twitter.com/PiaP" target="_blank">@PiaP</a></p>
-			<p class="flex-personne-details"><a href="http://piapandelakis.com" target="_blank">piapandelakis.com</a> / <a href="http://cinema-design.fr" target="_blank">cinédesign</a> </p>
-		</div>
-
-	</div>
-
-		<div class="flex-item">
-		<div class="flex-image"></div>	
-		<!--<img src="#" class="flex-image"/>-->
-		<p class="flex-personne-name">Rémi Pech</p>
-		<div class="flex-personne-detailbox">
-			<p class="flex-personne-quality">Chargé de cours</p>
-		</div>
-
-	</div>
 <!--
 		<div class="flex-item">
 		<img src="/../img/profiles/teachers/james-doe.jpg" class="flex-image"/>
@@ -149,5 +139,3 @@ Cette page est en cours de réalisation.
 -->
 
 </div>
- 
-

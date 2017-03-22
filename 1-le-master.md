@@ -5,7 +5,8 @@ title: Présentation du Master
 
 <img src="/../logo-02.svg" class="logo"/>
 
-<p class="important">Les inscriptions sont closes pour l'année universitaire 2016-2017.</p>
+<p><span class="important">Les inscriptions sont ouvertes pour l'année universitaire 2017-2018.</span>
+Vous pouvez obtenir plus de renseignements et <a href="http://www.univ-tlse2.fr/accueil/formation-insertion/odf-2016-2020/master-design-transdisciplinaire-cultures-et-territoires--386180.kjsp?RH=UTM">le dossier de candidature ici</a>, en cliquant sur l'onglet "admission".</p>
 
 ### Une approche engagée de la profession de designer
 

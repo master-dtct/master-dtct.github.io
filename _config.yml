@@ -18,7 +18,7 @@ author:
   url:            https://twitter.com/mdo
 
 # Gems
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
 paginate: 5
 paginate_path: "page:num"
 

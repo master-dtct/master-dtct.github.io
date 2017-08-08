@@ -13,7 +13,7 @@ Le workshop "Dystopies de la communication" a été introduit par une journée d
 La visite à Mix'Arts Myrys s'est déroulée en compagnie de bikepunk et ttn. La journée d'études a rassemblé quant à elle Xavier Mouton-Dubosc, dit <a href="#">dascritch</a>, développeur ; Jules David, ingénieur en aérospatiale ; <a href="#">Mélanie Bourdaa</a>, maître de conférences en SIC (Université Bordeaux — Montaigne, Laboratoire MICA) ; <a href="#">Johann Chaulet</a>, chercheur en sociologie (CNRS) ; Yoan Richard, artiste.
 
 <img src="/../img/2017_02/02-dys-dascritch.jpg"/>
-<figcaption>Dascritch parle d&eacute;militarisation, amants infid&erave;les, transferts mon&eacute;taires, militantisme et escroquerie...
+<figcaption>Dascritch parle d&eacute;militarisation, amants infid&egrave;les, transferts mon&eacute;taires, militantisme et escroquerie...
 </figcaption>
 <p></p>
 <img src="/../img/2017_02/03-dys-jules.jpg"/>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journée Cinédesign'
+title: 'Journée Cinédesign, 2016'
 published: true
 ---
 

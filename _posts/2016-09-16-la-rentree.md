@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le master DTCT fait sa rentrée
+title: Le master DTCT fait sa rentrée 2016
 published: true
 ---
 

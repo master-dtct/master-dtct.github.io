@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Workshop Dystopies de la communication'
+title: 'Workshop Dystopies de la communication (2017)'
 published: true
 ---
 

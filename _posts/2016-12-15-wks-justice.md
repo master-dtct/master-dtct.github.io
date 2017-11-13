@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Workshop Design & Justice'
+title: 'Workshop Design & Justice (2016)'
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bon été, et à la prochaine rentrée
+title: Bon été 2016, et à la prochaine rentrée
 ---
 
 Le master DTCT vous souhaite à tous un bel été. Nous nous retrouverons le <strong>vendredi 16 septembre</strong> en salle GH003 pour notre réunion de rentrée.

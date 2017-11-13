@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journée d'étude Cinédesign
+title: Journée d'étude Cinédesign (2016)
 ---
 
 Le master DTCT intègre à son programme la journée d'études "Cinédesign" qui aura lieu à <a href="http://www.univ-tlse2.fr/" target="_blank">l'Université Toulouse Jean Jaurès</a> les 6 et 7 octobre 2016.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Journée Dystopies de la communication'
+title: 'Journée Dystopies de la communication (2017)'
 published: true
 ---
 

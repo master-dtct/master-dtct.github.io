@@ -12,7 +12,7 @@ published: true
 <p>• <a href="/docs/2017/WKS_SEX-PLAYS_prog-fr.pdf">le programme en français</a></p>
 <p>• <a href="/docs/2017/WKS_SEX-PLAYS_prog-eng.pdf">the program in english!</a></p>
 
-<img src="img/2017_11/WKS_SEX-PLAYS_webimg-full.png"/>
+<img src="/../img/2017_11/WKS_SEX-PLAYS_webimg-full.png"/>
 
 
 

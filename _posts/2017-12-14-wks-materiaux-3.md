@@ -10,7 +10,7 @@ published: true
 
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-1.jpg"/>
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-2.jpg"/>
-<img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-3.jpg"/>
+<img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-3.JPG"/>
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-4.jpg"/>
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-5.jpg"/>
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-6.jpg"/>

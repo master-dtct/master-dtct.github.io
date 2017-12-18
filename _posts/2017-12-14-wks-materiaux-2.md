@@ -10,7 +10,7 @@ published: true
 
 <p>La conférence a donc démarré avec une présentation de son organisateur*e, Pia Pandelakis, qui a précisé les enjeux du théma : adopter une stratégie de "queerisation" des usages pour penser les objets du sexe au-delà des normes qui les contraignent habituellement. Dès le début de la journée, les étudiant/e/s du <a href="http://cetim.univ-tlse2.fr/">CETIM</a> ont attaqué les traductions simultanées pour notre designer invitée Beatriz Higón.</p>
 
-<img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_conf-01.jpg"/>
+<img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_conf-01.JPG"/>
 
 <p>Cette présentation s'est poursuivie en fondu enchaîné avec Anthony Masure (enseignant-chercheur et membre de l'équipe mDTCT), avec qui Pia travaille régulièrement. Leur présentation constituait un retour sur <a href="http://journals.openedition.org/resf/1066">un travail antérieur portant sur les <em>sexbots</em></a> (robots pour le sexe).</p>
 

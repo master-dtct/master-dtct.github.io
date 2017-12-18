@@ -6,7 +6,7 @@ published: true
 
 <p>Notre premier théma de l'année s'est terminé le 1<sup>er</sup> décembre 2017. L'occasion de découvrir 5 projets travaillés d'arrache-pied pendant une semaine par les M2... Ce post vous donne un petit aperçu de la semaine et de ses résultats.</p>
 
-<p>Les recherches ont commencé mardi après-midi après une dernière conférence technique en matinée. Beatriz Higón nous a parlé des process engagés dans son entreprise <a href="https://www.bsatelier.com/en/">BS Atelier</a>.</p>
+<p>Les recherches ont pu commencer mardi après-midi après une dernière conférence technique en matinée. Beatriz Higón nous a parlé des process engagés dans son entreprise <a href="https://www.bsatelier.com/en/">BS Atelier</a>.</p>
 
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-1.jpg"/>
 <img src="/../img/2017_12/2017_12_wks_sexplays/SEXPLAYS_wks-01-2.jpg"/>

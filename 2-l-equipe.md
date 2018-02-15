@@ -14,9 +14,9 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-quality">Designer, Enseignant</p>
 			<p class="flex-personne-details"><a href="http://dizayner.fr/" target="_blank">Dizayner</a></p>
 		</div>
-	</div>	
+	</div>
 
-		<div class="flex-item">
+	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-cazin.jpg" class="flex-image"/>
 		<p class="flex-personne-name">Émilie Cazin</p>
 		<div class="flex-personne-detailbox">
@@ -24,8 +24,7 @@ Cette page est en cours de réalisation.
 			<p class="flex-personne-details"><a href="http://emiliecazin.com/" target="_blank">Site personnel</a></p>
 			<p class="flex-personne-details"><a href="https://www.facebook.com/EmilieCazinDesign/?view_public_for=170576826291466" target="_blank">Sur Facebook</a></p>
 		</div>
-	</div>	
-
+	</div>
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-denoual.jpg" class="flex-image"/>
 		<p class="flex-personne-name">Fabienne Denoual</p>

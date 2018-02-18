@@ -28,9 +28,8 @@ Se nourrissant de l’ensemble des disciplines des sciences humaines, de la dive
 
 ### Les atouts du Master : 
 
-* <span class="surligne">Une dynamique d’ouverture et d’échange interculturel</span> : la formation est en partenariat avec l’école d’EINA/UAB (Barcelone) pour élargir le potentiel d’insertion professionnelle des étudiants. L’étudiant a ainsi la possibilité d’obtenir un double-diplôme avec l’Espagne. 
-De nombreux étudiants du Master effectuent l’un de leur stages à l’étranger.
-
+<!--* <span class="surligne">Une dynamique d’ouverture et d’échange interculturel</span> : 
+les étudiant/e/s du Master sont fortement encouragé/e/s à réaliser l’un de leur stages à l’étranger.-->
 * Une forte articulation entre <span class="surligne">recherche et monde professionnel</span> :
 À travers une étroite collaboration avec des professionnels du design européens issus de l’objet, du service, de l’architecture et de l’image, mais aussi /auprès ou au contact d’ /d’enseignants issus des sciences humaines, économiques et sociales, le programme vise à baser le travail de recherche-projet dans un ancrage de terrain. L’étudiant travaille <span class="surligne">en synergie le mémoire et le projet</span> tout au long des deux années de formation durant lesquelles il est suivi par un <a href=" /../2-l-equipe/">binôme composé d’un enseignant-chercheur et d’un professionnel du design </a>. Cette approche lui permet d’aiguiser le positionnement de sa problématique au sein de son propre champ disciplinaire et d’enrichir son approche grâce aux regards complémentaires qui lui sont apportés. L’année de Master 2 est tout particulièrement dédiée au développement d’un projet riche et singulier propre à l’étudiant.
  

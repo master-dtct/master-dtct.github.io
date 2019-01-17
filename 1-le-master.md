@@ -5,7 +5,7 @@ title: Présentation du Master
 
 <img src="/../logo-02.svg" class="logo"/>
 
-<p><span class="important">Les inscriptions pour l'année universitaire 2019-20 seront ouvertes le 7 mai.</span></p>
+<p><span class="important">Les inscriptions pour l'année universitaire 2019-20 seront ouvertes au printemps 2019.</span></p>
 <!--Vous pouvez obtenir plus de renseignements et <a href="https://bit.ly/2qvXa7q">le dossier de candidature ici</a>, en cliquant sur l'onglet "admission".-->
 
 ### Les enjeux du Master DTCT
@@ -43,16 +43,16 @@ Le master est articulé à **la Loge**, une association d’étudiant/e/s et d�
 La formation est ponctuée de **4 workshops** (deux par année de formation) assurés par des intervenants extérieurs. Ces workshops sont précédés de **journées d’étude** (conférences, performances, débats, etc.) faisant l’objet d’un travail de captation vidéo, de documentation et de publication.
 
 Précédents workshops, sélection :
-* Vox Machines. Design graphique et design d’interaction des assistants vocaux (décembre 2018)
+* <em>Vox Machines</em>. Design graphique et design d’interaction des assistants vocaux (décembre 2018)
 * (Re)penser le supermarché (novembre 2018)
-* Stranger Screens. Déformer l’écran rectangulaire (janvier 2018)
-* Monnaie Humanum Est (février 2018)
+* <em>Stranger Screens</em>. Déformer l’écran rectangulaire (janvier 2018)
+* Monnaie <em>Humanum Est</em> (février 2018)
 * Workshop autour du programme Albi 2020 – autosuffisance alimentaire (février 2018)
 * L'effondrement qui vient #2- Design et stratégie pour activer le changement (décembre 2017)
-* <a href="http://master-dtct.github.io/2017/12/14/wks-materiaux-3/">Sex Plays! Penser les objets du sexe</a> (novembre 2017) 
+* <a href="http://master-dtct.github.io/2017/12/14/wks-materiaux-3/"><em>Sex Plays!</em> Penser les objets du sexe</a> (novembre 2017) 
 * Design et justice (décembre 2016)
 * Terre, argile et ses formes ; dans le cadre de la Première édition de la Biennale Internationale du Patrimoine (octobre 2016)
-* Dystopies de la communication (février 2016)
+* <a href="http://master-dtct.github.io/2017/02/15/wks-dystopies/">Dystopies de la communication</a> (février 2016)
 * OVIMIJVA [Objets Volants Non Identifiés Mais Jamais Vus Avant] (novembre 2015)
 
 ### Profils recherchés
@@ -69,5 +69,5 @@ Les candidat/e/s recherché/e/s imaginent leur formation comme une transition ve
 Après une première sélection sur dossier en mai, les candidat/e/s sont entendu/e/s en juin lors d’un oral de motivation à l’université Toulouse – Jean Jaurès. L’admission peut se faire en Master 1 (DN MADE, Licence 3, etc.) ou Master 2 (candidats de bac+4 : DSAA, etc.).
 
 ### Archives
-> découvrir le parcours des ancien/ne/s 
+<a href="http://master-dtct.github.io/5-anciens/"> découvrir le parcours des ancien/ne/s</a> 
 

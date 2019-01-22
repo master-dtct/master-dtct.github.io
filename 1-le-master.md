@@ -43,9 +43,9 @@ Le master est articulé à **la Loge**, une association d’étudiant/e/s et d�
 La formation est ponctuée de **4 workshops** (deux par année de formation) assurés par des intervenants extérieurs. Ces workshops sont précédés de **journées d’étude** (conférences, performances, débats, etc.) faisant l’objet d’un travail de captation vidéo, de documentation et de publication.
 
 Précédents workshops, sélection :
-* <em>Vox Machines</em>. Design graphique et design d’interaction des assistants vocaux (décembre 2018)
+* <a href="http://master-dtct.github.io/2018/12/10/wks-vox-machines/"><em>Vox Machines</em></a>. Design graphique et design d’interaction des assistants vocaux (décembre 2018)
 * (Re)penser le supermarché (novembre 2018)
-* <em>Stranger Screens</em>. Déformer l’écran rectangulaire (janvier 2018)
+* <a href="http://master-dtct.github.io/2018/02/10/strangersrcreens/"><em>Stranger Screens</em></a>. Déformer l’écran rectangulaire (janvier 2018)
 * Monnaie <em>Humanum Est</em> (février 2018)
 * Workshop autour du programme Albi 2020 – autosuffisance alimentaire (février 2018)
 * L'effondrement qui vient #2- Design et stratégie pour activer le changement (décembre 2017)

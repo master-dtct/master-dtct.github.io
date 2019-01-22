@@ -17,8 +17,8 @@ Elle a réuni des conférences de [Anthony Masure](http://www.anthonymasure.co
 
 Un compte rendu de la journée d'étude a été rédigé par Hubert Guillaud sur_ Internet Actu_ : [partie 1](http://www.internetactu.net/2018/12/19/vox-machines-12-si-les-assistants-vocaux-sont-la-solution-quel-est-le-probleme/) et [partie 2](http://www.internetactu.net/2018/12/20/vox-machines-22-a-qui-les-interfaces-vocales-sadaptent-elles/). 
 
-<img src="/../img/2018_12/vox-machines-12.png"/>
-<img src="/../img/2018_12/vox-machines-4.png"/>
+<img src="/../img/2018_12/vox-machines-12.JPG"/>
+<img src="/../img/2018_12/vox-machines-4.JPG"/>
 
 Les étudiant/e/s du M1 DTCT ont ensuite travaillé durant 4 jours de workshops, encadrés par [Jean-Marie Blanchet](http://www.jeanmarieblanchet.fr/), [Julien Drochon](http://www.julien-drochon.net/) et Anthony Masure. Les projets et les conférences sont à retrouver plus en détails sur [**le site Web dédié**](http://www.julien-drochon.net/--vox-machines--/). 
 

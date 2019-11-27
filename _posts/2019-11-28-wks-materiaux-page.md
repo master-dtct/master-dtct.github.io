@@ -4,7 +4,7 @@ title: 'Théma Matériaux : Marque ta Page!'
 published: true
 ---
 
-<img src="/../img/2019_01/WKS_equiper-img-prog-carre.png"/>
+<img src="/../img/2019_01/WKS_marque-ta-page-fly.png"/>
 
 <p>En 2019, les étudiant/e/s du master DTCT ont réfléchi avec Vivien Gorse (collectif <a href="https://www.pepite-collectif.com/">Pépite</a>) à la question de la revue dans le champ du design éditorial. Qu’est-ce qu’une revue ? À quoi sert une revue ? Et plus précisément, que serait une revue reflétant les talents, envies et compétences des étudiant/e/s du master DTCT ? 
 Pensée comme un poster folioté, la revue a rassemblé des écrits des étudiant/e/s autour du thème du ticket. Ce numéro 0 a été distribué lors des portes ouvertes 2019 de l’université Toulouse - Jean Jaurès. Après ce premier jalon (faire une revue), se pose la question de la pérennité (faire revue).
@@ -16,7 +16,7 @@ Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de 
 <p>Rendez-vous <strong>lundi 16 décembre</strong> à 9h00 pour la journée d'échanges (démarrage effectif à 9h30), dans l'amphithéâtre F417 de la Maison de la Recherche (campus du Mirail). La journée sera live-tweetée par les étudiant/e/s grâce au hashtag <strong>#MarqueTaPage et #masterDTCT</strong>.</p>
 
 <p>Voici le programme de la journée : (<em>programme susceptible de mises à jour</em>)</p>
-<p><strong>9h30</strong> - Saul Pandelakis, enseignant-chercheur en design - Introduction : Pourquoi « Marque ta Page » ?  (20’)</p>
+<p><strong>9h30</strong> - <a href="http://saulpandelakis.com/">Saul Pandelakis</a>, enseignant-chercheur en design - Introduction : Pourquoi « Marque ta Page » ?  (20’)</p>
 
 <p><strong>9h50</strong> - Vivien Gorse, graphiste et dessinateur de caractères, Pépite Collectif : État des lieux du travail en cours sur la revue GH003 (20’)</p>
 

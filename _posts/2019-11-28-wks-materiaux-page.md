@@ -13,27 +13,29 @@ Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de 
 <p>Ce workshop sera l'occasion de recevoir Julien Taquet, designer spécialiste des questions <em>web to print</em>.</p>
 
 
-<p>Rendez-vous <strong>lundi 16 décembre</strong> à 9h00 pour la journée d'échanges (démarrage effectif à 9h30), dans l'amphithéâtre F417 de la Maison de la Recherche (campus du Mirail). La journée sera live-tweetée par les étudiant/e/s grâce au hashtag <strong>#MarqueTaPage et #masterDTCT</strong>.</p>
+<p>Rendez-vous <strong>lundi 16 décembre</strong> à 9h00 pour la journée d'échanges (démarrage effectif à 9h30), dans l'amphithéâtre F417 de la Maison de la Recherche sur campus du Mirail. La journée sera live-tweetée par les étudiant/e/s grâce au hashtag <strong>#MarqueTaPage</strong> et <strong>#masterDTCT</strong>.</p>
 
 <p>Voici le programme de la journée : (<em>programme susceptible de mises à jour</em>)</p>
 <p><strong>9h30</strong> - <a href="http://saulpandelakis.com/">Saul Pandelakis</a>, enseignant-chercheur en design - Introduction : Pourquoi « Marque ta Page » ?  (20’)</p>
 
-<p><strong>9h50</strong> - Vivien Gorse, graphiste et dessinateur de caractères, Pépite Collectif : État des lieux du travail en cours sur la revue GH003 (20’)</p>
+<p><strong>9h50</strong> - Vivien Gorse, graphiste et dessinateur de caractères, <a href="https://www.pepite-collectif.com/">Pépite</a> Collectif : État des lieux du travail en cours sur la revue GH003 (20’)</p>
 
 <p><strong>10h10</strong> - Présentation de GH003 par les étudiant/e/s (20’)</p>
 
 
-<p><strong>10h40</strong> - <a href="https://twitter.com/john_tax?lang=en">Julien Taquet</a>, designer Cabbage Tree Labs- Coder la marge (20’ + Q&amp;A)</p>
+<p><strong>10h40</strong> - <a href="https://twitter.com/john_tax?lang=en">Julien Taquet</a>, designer Cabbage Tree Labs- <em>Coder la marge</em> (20’ + Q&amp;A)</p>
 
-<p><strong>11h20</strong> - <a href="https://bertrandkeller.info/">Bertrand Keller</a>, développeur indépendant - titre à venir (20’ + Q&amp;A)</p>
+<p><strong>11h20</strong> - <a href="https://bertrandkeller.info/">Bertrand Keller</a>, développeur indépendant - (20’ + Q&amp;A)</p>
 
 
-<p><strong>14h30</strong> - David Héritier, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - Variable fonts, et après?</p>
+<p><strong>14h30</strong> - David Héritier, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - <em>Variable fonts, et après ?</em></p>
 
-<p><strong>15h10</strong> - Nicolas Baldran, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - LayDesc, outils pour la typographie paramétrique.</p>
+<p><strong>15h10</strong> - Nicolas Baldran, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - <em>LayDesc, outils pour la typographie paramétrique</em>.</p>
 
 
 <p><strong>16h10</strong> - <a href="https://oncletom.io/">Thomas Parisot</a>, développeur  - <em>Live coding</em> (60’ + Q&amp;A)</p>
+
+<p>Au plaisir de vous retrouver pour cette journée !</p> 
 
 
 

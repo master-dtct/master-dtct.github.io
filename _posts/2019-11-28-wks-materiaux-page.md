@@ -8,7 +8,7 @@ published: true
 
 <p>En 2019, les étudiant/e/s du master DTCT ont réfléchi avec Vivien Gorse (collectif <a href="https://www.pepite-collectif.com/">Pépite</a>) à la question de la revue dans le champ du design éditorial. Qu’est-ce qu’une revue ? À quoi sert une revue ? Et plus précisément, que serait une revue reflétant les talents, envies et compétences des étudiant/e/s du master DTCT ? 
 Pensée comme un poster folioté, la revue a rassemblé des écrits des étudiant/e/s autour du thème du ticket. Ce numéro 0 a été distribué lors des portes ouvertes 2019 de l’université Toulouse - Jean Jaurès. Après ce premier jalon (faire une revue), se pose la question de la pérennité (faire revue).
-Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de workshop à GH003, revue du master DTCT, avec un angle d’attaque spécifique : la question de la publication des contenus sur le web.</p>
+Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de workshop à <em>GH003</em>, revue du master DTCT, avec un angle d’attaque spécifique : la question de la publication des contenus sur le web.</p>
 
 <p>Ce workshop sera l'occasion de recevoir Julien Taquet, designer spécialiste des questions <em>web to print</em>.</p>
 
@@ -25,13 +25,12 @@ Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de 
 
 <p><strong>10h40</strong> - <a href="https://twitter.com/john_tax?lang=en">Julien Taquet</a>, designer Cabbage Tree Labs- <em>Coder la marge</em> (20’ + Q&amp;A)</p>
 
-<p><strong>11h20</strong> - <a href="https://bertrandkeller.info/">Bertrand Keller</a>, développeur indépendant - (20’ + Q&amp;A)</p>
+<p><strong>11h20</strong> - <a href="https://bertrandkeller.info/">Bertrand Keller</a>, développeur indépendant - <em>L'édition responsable : la collecte de données, stockage résilient et affichage sobre</em> (20’ + Q&amp;A)</p>
 
 
-<p><strong>14h30</strong> - David Héritier, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - <em>Variable fonts, et après ?</em></p>
+<p><strong>14h30</strong> - David Héritier, alumni <a href="https://www.hesge.ch/head/formations-recherche/master-en-media-design">HEAD – Genève</a> (<a href="http://www.mastermediadesign.ch/home">Master Media Design</a>) - <em>Variable fonts, et après ?</em></p>
 
-<p><strong>15h10</strong> - Nicolas Baldran, alumni <a href="https://www.hesge.ch/head/">HEAD – Genève</a> - <em>LayDesc, outils pour la typographie paramétrique</em>.</p>
-
+<p><strong>15h10</strong> - Nicolas Baldran, alumni <a href="https://www.hesge.ch/head/formations-recherche/master-en-media-design">HEAD – Genève</a> (<a href="http://www.mastermediadesign.ch/home">Master Media Design</a>) - <em>LayDesc, outils pour la typographie paramétrique</em>.</p>
 
 <p><strong>16h10</strong> - <a href="https://oncletom.io/">Thomas Parisot</a>, développeur  - <em>Live coding</em> (60’ + Q&amp;A)</p>
 

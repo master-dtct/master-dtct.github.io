@@ -32,7 +32,8 @@ Pour solidifier ce travail initial, nous avons choisi de dédier une semaine de 
 
 <p><strong>15h10</strong> - Nicolas Baldran, alumni <a href="https://www.hesge.ch/head/formations-recherche/master-en-media-design">HEAD – Genève</a> (<a href="http://www.mastermediadesign.ch/home">Master Media Design</a>) - <em>LayDesc, outils pour la typographie paramétrique</em>.</p>
 
-<p><strong>16h10</strong> - <a href="https://oncletom.io/">Thomas Parisot</a>, développeur  - <em>Live Coding</em> (60’ + Q&amp;A)</p>
+<p><strong>16h10</strong> - <a href="https://oncletom.io/">Thomas Parisot</a>, développeur - <em>Live Coding</em> (60’ + Q&amp;A)<br>
+Écrire, mettre en forme et publier un livre imprimable avec seulement du texte et un navigateur web !</p>
 
 <p>Au plaisir de vous retrouver pour cette journée !</p> 
 

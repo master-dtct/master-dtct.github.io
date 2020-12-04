@@ -94,11 +94,11 @@ Cette page est en cours de réalisation.
 
 	<div class="flex-item">
 		<img src="/../img/profiles/teachers/ID-pandelakis.png" class="flex-image"/>
-		<p class="flex-personne-name">Pia Pandelakis </p>
+		<p class="flex-personne-name">Saul Pandelakis </p>
 		<div class="flex-personne-detailbox">
-			<p class="flex-personne-quality">Enseignant*e-Chercheur*e, Graphiste, Illustrateur*e</p>
-			<p class="flex-personne-details"><a href="https://twitter.com/PiaP" target="_blank">@PiaP</a></p>
-			<p class="flex-personne-details"><a href="http://piapandelakis.com" target="_blank">piapandelakis.com</a> / <a href="http://cinema-design.fr" target="_blank">cinédesign</a> </p>
+			<p class="flex-personne-quality">Enseignant-Chercheur, Graphiste, Illustrateur</p>
+			<p class="flex-personne-details"><a href="https://twitter.com/PiaP" target="_blank">@Saul_Pndlks</a></p>
+			<p class="flex-personne-details"><a href="http://saulpandelakis.com" target="_blank">saulpandelakis.com</a> / <a href="http://cinema-design.fr" target="_blank">cinédesign</a> </p>
 		</div>
 
 	</div>

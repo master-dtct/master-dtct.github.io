@@ -16,7 +16,7 @@ Notre *plasticienne invitée Denise Bresciani* est née en Italie en 1970. Elle 
 Elle est titulaire d'un DEA - Diplôme d’État en Architecture de l'Université Politecnico de Milan et, elle enseigne les arts plastiques, l’installation et la scénographie à l’Université Jean Jaurès de Toulouse. 
 L’œuvre de Bresciani est polyforme et comprend la recherche, la performance, l’installation, la sculpture et l’image. Son travail est axé sur le processus et se concentre sur l’expérimentation des matériaux organiques d’origine animale, végétale et minérale. 
 
-Le lien vers le zoom pour la journée d'études de lundi 7 décembre (début : 9h) est dans le PDF du <a href="/../doc/2020/SUGARDADDIES_flyer-02.pdf">programme</a>.
+Le lien vers le zoom pour la journée d'études de lundi 7 décembre (début : 9h) est dans le PDF du <a href="/../docs/2020/SUGARDADDIES_flyer-02.pdf">programme</a>.
 
 
 

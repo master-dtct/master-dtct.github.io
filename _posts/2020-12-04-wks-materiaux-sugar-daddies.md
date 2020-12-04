@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Théma Matériaux : Sugar Daddies
+title: Workshop Sugar Daddies
 published: true
 ---
 
